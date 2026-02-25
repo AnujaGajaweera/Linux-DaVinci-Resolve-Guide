@@ -1,5 +1,5 @@
 
-# **DaVinci Resolve on Linux** 🐧
+# **DaVinci Resolve on Lutris** 🐧
 
 <img src="./Assets/DaVinci_Resolve_Studio.png" width="200" alt="DaVinci Resolve on Linux Logo">
 
