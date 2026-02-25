@@ -116,11 +116,7 @@ You will register this runner and configuration in Lutris later.
 1. Download the **DirectML `.nupkg`**
 2. Rename it to `.zip`
 3. Extract the archive
-4. Locate:
-
-   ```text
-   bin/<architecture>/DirectML.dll
-   ```
+4. Select the dll file when installer prompted.
 
 ---
 
