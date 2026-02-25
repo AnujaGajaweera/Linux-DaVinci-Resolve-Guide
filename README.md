@@ -4,7 +4,7 @@
 <img src="./Assets/DaVinci_Resolve_Studio.png" width="200" alt="DaVinci Resolve on Linux Logo">
 
 ### Before doing anything, make sure you have a `.exe` version of DaVinci Resolve apps. You can download DaVinci Resolve from the official Blackmagicdesign websites
- - [DaVinci Resolve 20](https://www.blackmagicdesign.com/products/davinciresolve)
+ - [Download DaVinci Resolve 20](https://www.blackmagicdesign.com/products/davinciresolve)
 
 *A curated repository documenting how to run **DaVinci Resolve (Windows builds)** on **GNU/Linux** using **WINE-based compatibility layers**.*
 
