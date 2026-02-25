@@ -125,8 +125,8 @@ You will register this runner and configuration in Lutris later.
 ---
 
 >  [!NOTE] 
-> **Pre-Extracted (Unofficial)**
-> * Download `directml.dll` from:
+> **Pre-Extracted version (Unofficial)**
+> * You can download `directml.dll` from:
   👉 [https://github.com/AnujaGajaweera/Linux-DaVinci-Resolve-Guide/DirectML/directml.dll](https://github.com/AnujaGajaweera/Linux-DaVinci-Resolve-Guide/blob/main/DirectML/directml.dll)
  ⚠️ Unofficial binaries are provided for convenience only.
 
@@ -143,7 +143,7 @@ You may be prompted for these at runtime:
 * **NVIDIA CUDA (x86_64 only)**
   👉 `nvcuda.dll`
   [https://www.dll-files.com/nvcuda.dll.html](https://www.dll-files.com/nvcuda.dll.html)
-These are **not strictly required**, but significantly improve **performance, stability, and feature compatibility**.
+  Nvidia drivers are **not strictly required**, but significantly improve **performance, stability, and feature compatibility**.
 
 ---
 
